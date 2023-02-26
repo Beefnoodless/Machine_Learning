@@ -1,0 +1,13 @@
+创建虚拟环境 
+conda create -n your_env_name
+退出虚拟环境
+conda deactivate your_env_name
+
+在虚拟环境中安装包
+pip install package_name
+
+路径退回：cd..
+更换磁盘：cd..直到磁盘然后直接键入磁盘名称 D：
+
+启动jupyter lab
+activate jupyter lab
